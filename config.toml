@@ -1,0 +1,30 @@
+baseURL = 'https://ncosd.github.io/food-pantry-app-prototype/'
+languageCode = 'en-us'
+title = 'FPA Prototype'
+theme = 'hugo-empty-bootstrap'
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[menu]
+[[menu.main]]
+  name = 'Delivery'
+  url = '/delivery/'
+  weight = 10
+[[menu.main]]
+  name = 'About'
+  url = '/about/'
+  weight = 20
+
+#  modules needed for bootstrap theme
+[[module.mounts]]
+source = "static"
+target = "static"
+
+[[module.mounts]]
+source = "themes/hugo-empty-bootstrap/node_modules/bootstrap-icons/font/fonts"
+target = "static/css/fonts"
+
+[[module.mounts]]
+source = "themes/hugo-empty-bootstrap/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+target = "static/js/bootstrap.bundle.min.js"
