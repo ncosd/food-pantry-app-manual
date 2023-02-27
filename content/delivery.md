@@ -15,6 +15,26 @@ Street 2
 
 City, State, Zip
 
+<div class="row">
+  <div class="col">
+    <label for="num9" class="form-label">Number 0-9</label>
+    <input type="text" id="num9" class="form-control">
+  </div>
+  <div class="col">
+    <label for="num1017" class="form-label">Number 10-17</label>
+    <input type="text" id="num1017" class="form-control">
+  </div>
+  <div class="col">
+    <label for="num18" class="form-label">Number 18-59</label>
+    <input type="text" id="num18" class="form-control">
+  </div>
+  <div class="col">
+    <label for="num60" class="form-label">Number 60+</label>
+    <input type="text" id="num60" class="form-control">
+  </div>
+</div>
+
+
 <div class="form-check">
   <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
   <label class="form-check-label" for="flexCheckDefault">
