@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://ncosd.github.io/food-pantry-app-prototype/delivery/</loc>
+    <lastmod>2023-02-27T11:24:49-05:00</lastmod>
+  </url><url>
+    <loc>https://ncosd.github.io/food-pantry-app-prototype/about/</loc>
+    <lastmod>2023-02-27T11:24:05-05:00</lastmod>
+  </url><url>
+    <loc>https://ncosd.github.io/food-pantry-app-prototype/login/</loc>
+    <lastmod>2023-02-27T11:09:37-05:00</lastmod>
+  </url><url>
+    <loc>https://ncosd.github.io/food-pantry-app-prototype/</loc>
+    <lastmod>2023-02-27T11:07:54-05:00</lastmod>
+  </url><url>
+    <loc>https://ncosd.github.io/food-pantry-app-prototype/categories/</loc>
+  </url><url>
+    <loc>https://ncosd.github.io/food-pantry-app-prototype/tags/</loc>
+  </url>
+</urlset>
