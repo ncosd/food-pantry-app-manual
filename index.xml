@@ -16,7 +16,7 @@
       <description>If you aren&#39;t logged in, sends you to the login page. If you aren&#39;t approved for delivery, shows you your status here. If you are approved, shows you your preferences. Address Street 1
 Street 2
 City, State, Zip
-On hold Preferences Vegetarian Allergies List Allergies List of things you cannot consume Next delivery DayofWeek Month Day, Year</description>
+Number 0-9 Number 10-17 Number 18-59 Number 60+ On hold Preferences Vegetarian Allergies List Allergies List of things you cannot consume Next delivery DayofWeek Month Day, Year</description>
     </item>
     
     <item>
