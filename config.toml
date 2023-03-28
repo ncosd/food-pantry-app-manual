@@ -2,6 +2,7 @@ baseURL = 'https://ncosd.github.io/food-pantry-app-prototype/'
 languageCode = 'en-us'
 title = 'FPA Prototype'
 theme = 'hugo-empty-bootstrap'
+canonifyurls = true
 
 [markup.goldmark.renderer]
   unsafe = true
