@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Prototype on FPA Prototype</title>
-    <link>https://ncosd.github.io/food-pantry-app-prototype/</link>
-    <description>Recent content in Prototype on FPA Prototype</description>
+    <title>Volunteers on FPA Prototype</title>
+    <link>https://ncosd.github.io/food-pantry-app-prototype/volunteer/</link>
+    <description>Recent content in Volunteers on FPA Prototype</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Feb 2023 11:07:54 -0500</lastBuildDate><atom:link href="https://ncosd.github.io/food-pantry-app-prototype/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Mar 2023 16:15:33 -0400</lastBuildDate><atom:link href="https://ncosd.github.io/food-pantry-app-prototype/volunteer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Admin Homepage</title>
       <link>https://ncosd.github.io/food-pantry-app-prototype/volunteer/admin/homepage/</link>
@@ -56,45 +56,6 @@ July Mon Tue Wed Thu Fri 1 2 3 4 5 8 9 10 11 12 15 16 17 18 19 22 23 24 25 26 29
       <description>When a volunteer first registers, they are put in the pending state. An admin needs to review their application and approve or set them inactive.
 Volunteer Portal Your application status is: Pending
 An administrator will review your application soon and let you know what the next steps are.</description>
-    </item>
-    
-    <item>
-      <title>Registration</title>
-      <link>https://ncosd.github.io/food-pantry-app-prototype/registration/</link>
-      <pubDate>Tue, 28 Mar 2023 15:14:55 -0400</pubDate>
-      
-      <guid>https://ncosd.github.io/food-pantry-app-prototype/registration/</guid>
-      <description> Sign Up {{successMessage}} {{error}} Email Password I want to be a volunteer Submit Forgot Password? Sign In </description>
-    </item>
-    
-    <item>
-      <title>Delivery</title>
-      <link>https://ncosd.github.io/food-pantry-app-prototype/delivery/</link>
-      <pubDate>Mon, 27 Feb 2023 11:24:49 -0500</pubDate>
-      
-      <guid>https://ncosd.github.io/food-pantry-app-prototype/delivery/</guid>
-      <description>If you aren&#39;t logged in, sends you to the login page. If you aren&#39;t approved for delivery, shows you your status here. If you are approved, shows you your preferences. Address Street 1
-Street 2
-City, State, Zip
-Number 0-9 Number 10-17 Number 18-59 Number 60+ On hold Preferences Vegetarian Allergies List Allergies List of things you cannot consume Next delivery DayofWeek Month Day, Year</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://ncosd.github.io/food-pantry-app-prototype/about/</link>
-      <pubDate>Mon, 27 Feb 2023 11:24:05 -0500</pubDate>
-      
-      <guid>https://ncosd.github.io/food-pantry-app-prototype/about/</guid>
-      <description>Something for the about page here details&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Login</title>
-      <link>https://ncosd.github.io/food-pantry-app-prototype/login/</link>
-      <pubDate>Mon, 27 Feb 2023 11:09:37 -0500</pubDate>
-      
-      <guid>https://ncosd.github.io/food-pantry-app-prototype/login/</guid>
-      <description> Sign In Email address We&#39;ll never share your email with anyone else. Password Submit Forgot Password? </description>
     </item>
     
   </channel>

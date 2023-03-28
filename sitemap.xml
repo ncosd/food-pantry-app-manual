@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ncosd.github.io/food-pantry-app-prototype/volunteer/admin/homepage/</loc>
+    <lastmod>2023-03-28T16:15:33-04:00</lastmod>
+  </url><url>
+    <loc>https://ncosd.github.io/food-pantry-app-prototype/volunteer/</loc>
+    <lastmod>2023-03-28T16:15:33-04:00</lastmod>
+  </url><url>
+    <loc>https://ncosd.github.io/food-pantry-app-prototype/volunteer/profile/</loc>
+    <lastmod>2023-03-28T16:15:22-04:00</lastmod>
+  </url><url>
+    <loc>https://ncosd.github.io/food-pantry-app-prototype/volunteer/calendar/</loc>
+    <lastmod>2023-03-28T16:15:13-04:00</lastmod>
+  </url><url>
+    <loc>https://ncosd.github.io/food-pantry-app-prototype/volunteer/inactive/</loc>
+    <lastmod>2023-03-28T16:15:07-04:00</lastmod>
+  </url><url>
+    <loc>https://ncosd.github.io/food-pantry-app-prototype/volunteer/pending/</loc>
+    <lastmod>2023-03-28T16:12:04-04:00</lastmod>
+  </url><url>
     <loc>https://ncosd.github.io/food-pantry-app-prototype/registration/</loc>
     <lastmod>2023-03-28T15:14:55-04:00</lastmod>
   </url><url>
