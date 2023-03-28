@@ -6,7 +6,7 @@ draft: false
 # Prototype
 
 - Homepage content - with updates and announcements
-- Registration/login/forgot password
+- [Registration](/registration/)/login/forgot password
 - Delivery Application
 - Delivery preferences, Vegetarian, Allergies
 - Menu items for selection
