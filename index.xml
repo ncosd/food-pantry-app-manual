@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Feb 2023 11:07:54 -0500</lastBuildDate><atom:link href="https://ncosd.github.io/food-pantry-app-prototype/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Registration</title>
+      <link>https://ncosd.github.io/food-pantry-app-prototype/registration/</link>
+      <pubDate>Tue, 28 Mar 2023 15:14:55 -0400</pubDate>
+      
+      <guid>https://ncosd.github.io/food-pantry-app-prototype/registration/</guid>
+      <description> Sign Up {{successMessage}} {{error}} Email Password I want to be a volunteer Submit Forgot Password? Sign In </description>
+    </item>
+    
+    <item>
       <title>Delivery</title>
       <link>https://ncosd.github.io/food-pantry-app-prototype/delivery/</link>
       <pubDate>Mon, 27 Feb 2023 11:24:49 -0500</pubDate>
