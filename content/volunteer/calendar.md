@@ -27,7 +27,9 @@ draft: false
     <div class="col border text-secondary text-opacity-50">28</div>
     <div class="col border text-secondary text-opacity-50">29</div>
     <div class="col border text-secondary text-opacity-50">30</div>
-    <div class="col border text-secondary text-opacity-50">31</div>
+    <div class="col border text-secondary text-opacity-50">31
+    <div class="badge rounded-pill text-bg-info text-wrap d-block m-1">Holiday-closed</div>
+    </div>
     <div class="col border d-none d-md-block">1</div>
   </div>
 
