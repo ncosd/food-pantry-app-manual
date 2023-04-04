@@ -33,11 +33,29 @@ draft: false
 
   <div class="row text-center" style="height:200px;">
     <div class="col border d-none d-md-block">2</div>
-    <div class="col border">3</div>
-    <div class="col border">4</div>
-    <div class="col border">5</div>
-    <div class="col border">6</div>
-    <div class="col border">7</div>
+    <div class="col border">3
+      <div class="badge rounded-pill text-bg-info text-wrap d-block m-1">Holiday-closed</div>
+    </div>
+    <div class="col border"><div>4</div>
+      <div class="badge rounded-pill text-bg-success text-wrap">Volunteering 9am-11am</div>
+      <div class="badge rounded-pill text-bg-secondary d-block m-1">covered</div>
+      <div class="badge rounded-pill text-bg-secondary d-block m-1">covered</div>
+    </div>
+    <div class="col border">
+      <div>5</div>
+      <div class="badge rounded-pill text-bg-secondary text-wrap d-block m-1">covered</div>
+      <div class="badge rounded-pill text-bg-secondary text-wrap d-block m-1">covered</div>
+      <div class="badge rounded-pill text-bg-secondary text-wrap d-block m-1">covered</div>
+    </div>
+    <div class="col border"><div>6</div>
+      <div class="badge rounded-pill text-bg-secondary text-wrap d-block m-1">covered</div>
+    <div class="badge rounded-pill text-bg-danger text-wrap">Need Someone 11am-3pm</div>
+      <div class="badge rounded-pill text-bg-secondary text-wrap d-block m-1">covered</div>
+    </div>
+    <div class="col border">7      <div class="badge rounded-pill text-bg-secondary text-wrap d-block m-1">covered</div>
+      <div class="badge rounded-pill text-bg-secondary text-wrap d-block m-1">covered</div>
+      <div class="badge rounded-pill text-bg-secondary text-wrap d-block m-1">covered</div>
+</div>
     <div class="col border d-none d-md-block">8</div>
   </div>
 
