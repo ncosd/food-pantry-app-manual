@@ -17,8 +17,8 @@
 
     {{ $options := (dict "targetPath" "css/styles.css" "outputStyle" "compressed") }}
     {{ $style := resources.Get "scss/main.scss" | toCSS  $options | minify }}
-    <link rel="stylesheet" href="{{ $style.RelPermalink }}" media="screen">
-    <link ref="stylesheet" href="{{ .Site.BaseURL}}css/calendar.css" media="screen">
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}" media="screen"/>
+    <link rel="stylesheet" href="{{ .Site.BaseURL}}css/calendar.css" media="screen"/>
 
     <link rel='shortcut icon' type='image/x-icon' href='{{.Site.BaseURL}}favicon.ico' />
     {{ range $val := $.Site.Params.customCSS }}
