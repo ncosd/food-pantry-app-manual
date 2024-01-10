@@ -1,6 +1,6 @@
-baseURL = 'https://ncosd.github.io/food-pantry-app-prototype/'
+baseURL = 'https://ncosd.github.io/food-pantry-app-manual/'
 languageCode = 'en-us'
-title = 'FPA Prototype'
+title = 'FPA Manual'
 theme = 'hugo-empty-bootstrap'
 canonifyurls = true
 
