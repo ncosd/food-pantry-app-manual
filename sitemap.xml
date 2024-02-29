@@ -2,44 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ncosd.github.io/food-pantry-app-manual/volunteer/admin/cal-new/</loc>
-    <lastmod>2023-04-05T16:17:11-04:00</lastmod>
+    <loc>https://ncosd.github.io/food-pantry-app-manual/docs/overview/</loc>
+    <lastmod>2024-02-29T18:56:49-05:00</lastmod>
   </url><url>
-    <loc>https://ncosd.github.io/food-pantry-app-manual/volunteer/</loc>
-    <lastmod>2023-04-05T16:17:11-04:00</lastmod>
+    <loc>https://ncosd.github.io/food-pantry-app-manual/docs/tasks/beds/</loc>
+    <lastmod>2024-02-29T18:56:49-05:00</lastmod>
   </url><url>
-    <loc>https://ncosd.github.io/food-pantry-app-manual/volunteer/admin/homepage/</loc>
-    <lastmod>2023-03-28T16:15:33-04:00</lastmod>
+    <loc>https://ncosd.github.io/food-pantry-app-manual/docs/tasks/ponycopters/configuring-ponycopters/</loc>
+    <lastmod>2024-02-29T18:56:49-05:00</lastmod>
   </url><url>
-    <loc>https://ncosd.github.io/food-pantry-app-manual/volunteer/profile/</loc>
-    <lastmod>2023-03-28T16:15:22-04:00</lastmod>
+    <loc>https://ncosd.github.io/food-pantry-app-manual/docs/getting-started/</loc>
+    <lastmod>2024-02-29T18:56:49-05:00</lastmod>
   </url><url>
-    <loc>https://ncosd.github.io/food-pantry-app-manual/volunteer/calendar/</loc>
-    <lastmod>2023-03-28T16:15:13-04:00</lastmod>
+    <loc>https://ncosd.github.io/food-pantry-app-manual/docs/examples/</loc>
+    <lastmod>2024-02-29T18:56:49-05:00</lastmod>
   </url><url>
-    <loc>https://ncosd.github.io/food-pantry-app-manual/volunteer/inactive/</loc>
-    <lastmod>2023-03-28T16:15:07-04:00</lastmod>
+    <loc>https://ncosd.github.io/food-pantry-app-manual/docs/tasks/ponycopters/launching-ponycopters/</loc>
+    <lastmod>2024-02-29T18:56:49-05:00</lastmod>
   </url><url>
-    <loc>https://ncosd.github.io/food-pantry-app-manual/volunteer/pending/</loc>
-    <lastmod>2023-03-28T16:12:04-04:00</lastmod>
+    <loc>https://ncosd.github.io/food-pantry-app-manual/docs/tutorials/multi-bear/</loc>
+    <lastmod>2024-02-29T18:56:49-05:00</lastmod>
   </url><url>
-    <loc>https://ncosd.github.io/food-pantry-app-manual/registration/</loc>
-    <lastmod>2023-03-28T15:14:55-04:00</lastmod>
+    <loc>https://ncosd.github.io/food-pantry-app-manual/docs/tasks/porridge/</loc>
+    <lastmod>2024-02-29T18:56:49-05:00</lastmod>
   </url><url>
-    <loc>https://ncosd.github.io/food-pantry-app-manual/delivery/</loc>
-    <lastmod>2023-02-27T11:24:49-05:00</lastmod>
+    <loc>https://ncosd.github.io/food-pantry-app-manual/docs/concepts/</loc>
+    <lastmod>2024-02-29T18:56:49-05:00</lastmod>
   </url><url>
-    <loc>https://ncosd.github.io/food-pantry-app-manual/about/</loc>
-    <lastmod>2023-02-27T11:24:05-05:00</lastmod>
+    <loc>https://ncosd.github.io/food-pantry-app-manual/docs/tasks/task/</loc>
+    <lastmod>2024-02-29T18:56:49-05:00</lastmod>
   </url><url>
-    <loc>https://ncosd.github.io/food-pantry-app-manual/login/</loc>
-    <lastmod>2023-02-27T11:09:37-05:00</lastmod>
+    <loc>https://ncosd.github.io/food-pantry-app-manual/docs/tutorials/tutorial2/</loc>
+    <lastmod>2024-02-29T18:56:49-05:00</lastmod>
   </url><url>
-    <loc>https://ncosd.github.io/food-pantry-app-manual/</loc>
-    <lastmod>2023-02-27T11:07:54-05:00</lastmod>
+    <loc>https://ncosd.github.io/food-pantry-app-manual/docs/tasks/</loc>
+    <lastmod>2024-02-29T18:56:49-05:00</lastmod>
+  </url><url>
+    <loc>https://ncosd.github.io/food-pantry-app-manual/docs/tutorials/</loc>
+    <lastmod>2024-02-29T18:56:49-05:00</lastmod>
+  </url><url>
+    <loc>https://ncosd.github.io/food-pantry-app-manual/docs/reference/</loc>
+    <lastmod>2024-02-29T18:56:49-05:00</lastmod>
+  </url><url>
+    <loc>https://ncosd.github.io/food-pantry-app-manual/docs/contribution-guidelines/</loc>
+    <lastmod>2024-02-29T18:56:49-05:00</lastmod>
+  </url><url>
+    <loc>https://ncosd.github.io/food-pantry-app-manual/docs/</loc>
+    <lastmod>2024-02-29T18:56:49-05:00</lastmod>
   </url><url>
     <loc>https://ncosd.github.io/food-pantry-app-manual/categories/</loc>
+    <lastmod>2024-02-29T18:56:49-05:00</lastmod>
+  </url><url>
+    <loc>https://ncosd.github.io/food-pantry-app-manual/tags/docs/</loc>
+    <lastmod>2024-02-29T18:56:49-05:00</lastmod>
+  </url><url>
+    <loc>https://ncosd.github.io/food-pantry-app-manual/docs/getting-started/example-page/</loc>
+    <lastmod>2024-02-29T18:56:49-05:00</lastmod>
+  </url><url>
+    <loc>https://ncosd.github.io/food-pantry-app-manual/categories/examples/</loc>
+    <lastmod>2024-02-29T18:56:49-05:00</lastmod>
+  </url><url>
+    <loc>https://ncosd.github.io/food-pantry-app-manual/docs/reference/parameter-reference/</loc>
+    <lastmod>2024-02-29T18:56:49-05:00</lastmod>
+  </url><url>
+    <loc>https://ncosd.github.io/food-pantry-app-manual/tags/sample/</loc>
+    <lastmod>2024-02-29T18:56:49-05:00</lastmod>
   </url><url>
     <loc>https://ncosd.github.io/food-pantry-app-manual/tags/</loc>
+    <lastmod>2024-02-29T18:56:49-05:00</lastmod>
+  </url><url>
+    <loc>https://ncosd.github.io/food-pantry-app-manual/tags/test/</loc>
+    <lastmod>2024-02-29T18:56:49-05:00</lastmod>
+  </url><url>
+    <loc>https://ncosd.github.io/food-pantry-app-manual/docs/tasks/ponycopters/</loc>
+    <lastmod>2024-02-29T18:56:49-05:00</lastmod>
+  </url><url>
+    <loc>https://ncosd.github.io/food-pantry-app-manual/</loc>
+    <lastmod>2024-02-29T18:56:49-05:00</lastmod>
+  </url><url>
+    <loc>https://ncosd.github.io/food-pantry-app-manual/categories/placeholders/</loc>
+    <lastmod>2024-02-29T18:56:49-05:00</lastmod>
+  </url><url>
+    <loc>https://ncosd.github.io/food-pantry-app-manual/search/</loc>
+    <lastmod>2024-02-29T18:56:49-05:00</lastmod>
   </url>
 </urlset>
