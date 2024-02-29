@@ -9,7 +9,7 @@ jobs:
   deploy:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           submodules: true
           fetch-depth: 0
@@ -20,8 +20,12 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      - name: npm install
-        run: cd themes/hugo-empty-bootstrap && npm install
+      - name: Setup node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - run: npm ci
 
       - name: Build
         run: hugo
