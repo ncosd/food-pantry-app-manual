@@ -126,7 +126,7 @@ offlineSearch = false
 prism_syntax_highlighting = false
 
 [params.copyright]
-  authors = "Food Pantry App Authors | [MIT](https://opensource.org/license/mit)"
+  authors = "Food Pantry App Authors | [MIT Open Source License](https://opensource.org/license/mit)"
   from_year = 2017
 
 # User interface configuration

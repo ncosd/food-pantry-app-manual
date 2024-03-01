@@ -26,8 +26,8 @@ The Food Pantry App is open source and under active development. You can contrib
 {{% /blocks/feature %}}
 
 
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!" url="https://github.com/ncosd/food-pantry-app" %}}
-We do a [Pull Request](https://github.com/ncosd/food-pantry-app/pulls) contributions workflow on **GitHub**. New users are always welcome!
+{{% blocks/feature icon="fab fa-github" title="Contributions welcome!" url="https://github.com/ncosd/food-pantry-app/blob/main/CONTRIBUTING.md" %}}
+We use a [Pull Request](https://github.com/ncosd/food-pantry-app/pulls) contribution workflow on **GitHub**. New contributors are always welcome!
 {{% /blocks/feature %}}
 
 
